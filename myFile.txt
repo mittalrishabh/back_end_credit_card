@@ -1,0 +1,8 @@
+[BaseURLSection]
+baseURL = 'http://192.168.211.231:8980/ysl/yodlee/v1/'
+[CobrandLoginSection]
+cobrandLogin = 'yodlee_10000004'
+cobrandPassword = 'yodlee123'
+[UserLoginSection]
+loginName='userAug21' //'yslassetuser',//'401k3plan1opt',//'septmorethan500',//'yslassetuser', //'401allstate',
+password ='TEST@123'

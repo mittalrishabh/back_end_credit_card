@@ -1,0 +1,8 @@
+[BaseURLSection]
+baseURL= https://developer.api.yodlee.com/ysl/restserver/
+cobrandLogin=sbCobmittalrishabh
+cobrandPassword=6eb1a597-5fb5-4dd4-886f-6773c5bf672d
+loginName=sbMemmittalrishabh5
+password=sbMemmittalrishabh5#123
+locale=en_US
+userLocale=en_US
